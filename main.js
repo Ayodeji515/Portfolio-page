@@ -1,4 +1,22 @@
 /*~~~~~~~~~~~~~~~ TOGGLE BUTTON ~~~~~~~~~~~~~~~*/
+const hamburger = document.getElementById("hamburger");
+const navMenu = document.getElementById("nav-menu");
+const navLink = document.querySelectorAll(".nav-link");
+const closeIcon = document.getElementById("nav-close");
+
+navLink.forEach((link) => (
+    link.addEventListener("click", () => {
+        navMenu.classList.add("hidden")
+    })
+))
+
+closeIcon.addEventListener("click", () => {
+    navMenu.classList.add("hidden")
+})
+
+hamburger.addEventListener("click", () => {
+    navMenu.classList.remove("hidden")
+})
 
 /*~~~~~~~~~~~~~~~ DARK LIGHT THEME ~~~~~~~~~~~~~~~*/
 const html = document.querySelector("html");

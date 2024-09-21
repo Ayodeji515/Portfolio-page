@@ -12,6 +12,40 @@
     }
 
     body {
-        @apply dark:bg-darkBodyColor dark:text-textColor text-primaryColor font-poppins tracking-wider overflow-x-hidden;
+        @apply dark:bg-darkBodyColor dark:text-textColor text-primaryColor 
+        font-poppins tracking-wider overflow-x-hidden;
+    }
+}
+
+
+@layer components {
+    .nav-link {
+        @apply relative font-bold;
+    }
+
+    .nav-link::before {
+        @apply content-[''] absolute w-full h-[2px] bg-gradient-to-r 
+        from-primaryColorLight to-primaryColor -bottom-[5px] 
+        left-0 scale-x-0 transition-transform ease-in-out origin-right duration-300;
+    }
+
+    .nav-link:hover::before {
+        @apply scale-x-100 origin-left;
+    }
+
+    .btn {
+        @apply relative overflow-hidden bg-gradient-to-r from-primaryColorLight 
+        to-primaryColor text-whiteColor px-7 py-3 rounded-full capitalize 
+        font-bold flex justify-center items-center;
+    }
+
+    .btn::before {
+        @apply content-[''] absolute w-[100%] h-[100%] bg-gradient-to-r 
+        from-primaryColor top-0 left-0 rounded-full scale-x-0 transition-transform 
+        ease-in-out origin-right duration-300;
+    }
+
+    .btn:hover::before {
+        @apply scale-x-100 origin-left;
     }
 }

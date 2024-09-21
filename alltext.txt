@@ -8,7 +8,7 @@ Services | Works | Resume | Skills | Blogs | Contact | Hire Me!
 hi
 I am Ayodeji Emmanuel
 Web Developer +
-UX Designer
+Technical Product Manager
 
 I dissect intricate user experience issues to craft solutions focused on integrity, linking billions of individuals.
 
@@ -22,75 +22,76 @@ Years of <br> Experience
 My Quality Services
 We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
 
-Branding Design
-I dissect complex user experience challenges to devise solutions that prioritize integrity.
+Product & Project Manager
+I will  manage company's / startup product/project and making Market Research, Roadmap Development, Agile Management and many more...
 
-Web Design
-I dissect complex user experience challenges to devise solutions that prioritize integrity.
+Frontend Developer
+Build a visual and interactive aspects of Website/Web application with design implementation, Optimization, Collaboration with code and more...
 
-UI/UX Design
-I dissect complex user experience challenges to devise solutions that prioritize integrity.
+Web Designer
+Making use of a CMS to build Quality and User friendly websites with no code like WordPess, Snapps, Wix & Shopify for E-commerce store.
 
-Graphics Design
-I dissect complex user experience challenges to devise solutions that prioritize integrity.
+Website Optimization
+Help rank websites on GBP & GMB for more visibilities and leads, implementation of contents like Blog post, image Optimization, lazy loading...
+
 
 ~~~~~~~~~~~~~~~ My Recent Works ~~~~~~~~~~~~~~~
 My Recent Works
 We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
 
 All
-UX/UI
-Branding
-Apps
-
-Design
+Frontend Developer
+Product & project Manager
+WordPess Developer
+SEO
 I analyze intricate user experience
 
 ~~~~~~~~~~~~~~~ Experience & Education ~~~~~~~~~~~~~~~
 Experience
-2022-Present
-Lead Developer
-Blockdots, London
+2022-2023
+Intern Frontend Developer
+Cholatrek, Akure, ONdo state. Nigeria
 
-2021-2022
-full stack web developer
-Parsons, The new school
+2023-2024
+Project Manager
+Digital Titans Academy, Lagos. Nigeria
 
-2020-2021
-ui designer
-house of life, Leeds
+2024-present
+Web Developer & Web Manager
+Kate Marketing LLC, Pocahontas. United State of America
 
-2022-Present
-junior graphics designer
-Theme Junction, Bursa
+2024-Present
+Web Developer
+Hospiyou, Middletown, Delaware. United State of America
 
 Education
-2020-2023
-programming course
-Harverd University
+2024-present
+Advance Website Management & SEO
+Skools
 
-2022-Present
-graphic design course
-University of Denmark
+2024-Present
+Product & Project Management
+Udemy
 
-2016-2020
-Graphic Design Course
-University of California
+2022-2023
+Frontend Development
+Cholatrek Institute
 
-2010-2011
-Design & Technology
-Parsons, The New School
+2021-present
+Information Science & Technology
+Federal University Oye Ekiti, Nigeria
 
 ~~~~~~~~~~~~~~~ My Skills ~~~~~~~~~~~~~~~
 My Skills
 We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
 
-Figma
-Sketch
-XD
-WordPess
 React
 JavaScript
+Snapps
+Trello
+Atlas
+WordPess
+
 
 ~~~~~~~~~~~~~~~ Recent Blogs ~~~~~~~~~~~~~~~
 Recent Blogs
@@ -104,32 +105,32 @@ Comment (0)
 top 10 ui ux designers
 
 tips
-App Development Guides
+Web Development Guides
 
 freebies
-Learn Graphic Design Free
+Learn Web Optimization Free
 
 ~~~~~~~~~~~~~~~ Contact ~~~~~~~~~~~~~~~
 <i class="fa-solid fa-phone"></i>
 Phone
-+01 123 456 8096
++2348148672181
 
 <i class="fa-regular fa-envelope"></i>
 Email
-lightcode@mail.com
+emmanuelayodeji515@gmail.com
 
 <i class="fa-solid fa-location-dot"></i>
 Address
-Warne Park Street Pine,<br /> FL 33157, New York
+Off Futa south gate, Akure, <br /> Ondo State. Nigeria
 
 Let’s work together!
 I create elegantly simple designs and code with passion. It's as straightforward as that!
 
 Choose a service
-Branding Design
+Frontend Development
 Web Design
-UI/UX Design
-App Design
+Product/Project Management
+Website Optimization/SEO
 
 send message
 
