@@ -5,11 +5,13 @@ const navMenu = document.getElementById("nav-menu");
 const navLink = document.querySelectorAll(".nav-link");
 const closeIcon = document.getElementById("nav-close");
 
+
 navLink.forEach((link) => (
     link.addEventListener("click", () => {
         navMenu.classList.add("hidden")
     })
 ))
+
 
 closeIcon.addEventListener("click", () => {
     navMenu.classList.add("hidden")
@@ -18,6 +20,7 @@ closeIcon.addEventListener("click", () => {
 hamburger.addEventListener("click", () => {
     navMenu.classList.remove("hidden")
 })
+
 
 /*~~~~~~~~~~~~~~~ DARK LIGHT THEME ~~~~~~~~~~~~~~~*/
 
@@ -30,6 +33,7 @@ if(localStorage.getItem("mode") == "dark") {
     lightMode();
 }
 
+
 themeBtn.addEventListener("click", (e) => {
     if(localStorage.getItem("mode") == "light") {
         darkMode();
@@ -37,6 +41,7 @@ themeBtn.addEventListener("click", (e) => {
         lightMode();
     }
 })
+
 
 function darkMode() {
     html.classList.add("dark");
@@ -49,6 +54,7 @@ function lightMode() {
     themeBtn.classList.replace("ri-sun-line", "ri-moon-line");
     localStorage.setItem("mode", "light");
 }
+
 
 /*~~~~~~~~~~~~~~~ TABS ~~~~~~~~~~~~~~~*/
 
