@@ -1,8 +1,12 @@
 ~~~~~~~~~~~~~~~ Title  ~~~~~~~~~~~~~~~
 Portfolio || TailwindCSS Website
 
+
+
 ~~~~~~~~~~~~~~~ Navbar ~~~~~~~~~~~~~~~
 Services | Works | Resume | Skills | Blogs | Contact | Hire Me!
+
+
 
 ~~~~~~~~~~~~~~~ Hero Section ~~~~~~~~~~~~~~~
 hi
@@ -17,6 +21,8 @@ Years of <br> Experience
 Project <br> Completed
 Happy <br> Clients
 Years of <br> Experience
+
+
 
 ~~~~~~~~~~~~~~~ My Quality Services ~~~~~~~~~~~~~~~
 My Quality Services
@@ -35,6 +41,8 @@ Website Optimization
 Help rank websites on GBP & GMB for more visibilities and leads, implementation of contents like Blog post, image Optimization, lazy loading...
 
 
+
+
 ~~~~~~~~~~~~~~~ My Recent Works ~~~~~~~~~~~~~~~
 My Recent Works
 We transform your ideas and desires into a distinctive web project and product that inspires both you and your customers.
@@ -46,40 +54,55 @@ WordPess Developer
 SEO
 I analyze intricate user experience
 
+
+
+
 ~~~~~~~~~~~~~~~ Experience & Education ~~~~~~~~~~~~~~~
 Experience
 2022-2023
 Intern Frontend Developer
 Cholatrek, Akure, ONdo state. Nigeria
 
+
 2023-2024
 Project Manager
 Digital Titans Academy, Lagos. Nigeria
+
 
 2024-present
 Web Developer & Web Manager
 Kate Marketing LLC, Pocahontas. United State of America
 
+
 2024-Present
 Web Developer
 Hospiyou, Middletown, Delaware. United State of America
+
+
+
+
 
 Education
 2024-present
 Advance Website Management & SEO
 Skools Institute
 
+
 2024-Present
 Product & Project Management
 Udemy
+
 
 2022-2023
 Frontend Development
 Cholatrek Institute
 
+
 2021-present
 Information Science & Technology
 Federal University Oye Ekiti, Nigeria
+
+
 
 ~~~~~~~~~~~~~~~ My Skills ~~~~~~~~~~~~~~~
 My Skills
@@ -91,6 +114,7 @@ Snapps
 Trello
 Atlas
 WordPess
+
 
 
 ~~~~~~~~~~~~~~~ Recent Blogs ~~~~~~~~~~~~~~~
@@ -109,6 +133,8 @@ Web Development Guides
 
 freebies
 Learn Web Optimization Free
+
+
 
 ~~~~~~~~~~~~~~~ Contact ~~~~~~~~~~~~~~~
 <i class="fa-solid fa-phone"></i>
@@ -133,6 +159,9 @@ Product/Project Management
 Website Optimization/SEO
 
 send message
+
+
+
 
 ~~~~~~~~~~~~~~~ Footer ~~~~~~~~~~~~~~~
 Services
