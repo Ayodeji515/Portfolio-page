@@ -6,14 +6,11 @@ const navLink = document.querySelectorAll(".nav-link");
 const closeIcon = document.getElementById("nav-close");
 
 
-
 navLink.forEach((link) => (
     link.addEventListener("click", () => {
         navMenu.classList.add("hidden")
     })
 ))
-
-
 
 closeIcon.addEventListener("click", () => {
     navMenu.classList.add("hidden")
@@ -26,7 +23,6 @@ hamburger.addEventListener("click", () => {
 
 
 /*~~~~~~~~~~~~~~~ DARK LIGHT THEME ~~~~~~~~~~~~~~~*/
-
 
 const html = document.querySelector("html");
 const themeBtn = document.getElementById("theme-toggle");
