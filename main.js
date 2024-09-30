@@ -6,11 +6,13 @@ const navLink = document.querySelectorAll(".nav-link");
 const closeIcon = document.getElementById("nav-close");
 
 
+
 navLink.forEach((link) => (
     link.addEventListener("click", () => {
         navMenu.classList.add("hidden")
     })
 ))
+
 
 
 closeIcon.addEventListener("click", () => {
