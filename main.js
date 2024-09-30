@@ -22,7 +22,9 @@ hamburger.addEventListener("click", () => {
 })
 
 
+
 /*~~~~~~~~~~~~~~~ DARK LIGHT THEME ~~~~~~~~~~~~~~~*/
+
 
 const html = document.querySelector("html");
 const themeBtn = document.getElementById("theme-toggle");
