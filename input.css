@@ -15,6 +15,10 @@
         @apply dark:bg-darkBodyColor dark:text-textColor text-primaryColor 
         font-poppins tracking-wider overflow-x-hidden;
     }
+
+    section {
+        @apply py-16 md:pt-28 md:pb-20;
+    }
 }
 
 
@@ -47,5 +51,9 @@
 
     .btn:hover::before {
         @apply scale-x-100 origin-left;
+    }
+
+    .title {
+        @apply text-4xl lg:text-6xl xl:text-[65px] font-bold bg-gradient-to-r from-primaryColorLight to-primaryColor dark:to-whiteColor inline-block text-transparent bg-clip-text pb-2;
     }
 }
