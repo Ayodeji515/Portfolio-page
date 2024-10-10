@@ -12,17 +12,13 @@ navLink.forEach((link) => (
     })
 ))
 
-
 closeIcon.addEventListener("click", () => {
     navMenu.classList.add("hidden")
 })
 
-
 hamburger.addEventListener("click", () => {
     navMenu.classList.remove("hidden")
 })
-
-
 
 
 
